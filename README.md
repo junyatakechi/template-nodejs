@@ -16,6 +16,7 @@
 - `dist/*`内にコンパイル済みのjsが生成される。
 - nodejsで`./dist/index.js`が実行される。
 
+
 # 実行環境
 - node: v18.12.1
 - typescript: 5.1.3
